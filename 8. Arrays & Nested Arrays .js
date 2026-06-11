@@ -9,3 +9,7 @@ var myArray = [["Bulls", 23], ["White Sox", 45]];
 //Accessing array data with indexes
 var ourArray = [50, 60, 70];
 var ourData = ourArray[0];
+
+//Modifying array data with indexes
+var ourArray = [18, 64, 99];
+ourArray[1] = 45; //ourArray now equals [18, 45, 99]
