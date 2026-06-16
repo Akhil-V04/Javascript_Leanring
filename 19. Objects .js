@@ -14,3 +14,10 @@ console.log(myDog["legs"]); //4
 myDog.name="Max";
 console.log(myDog.name); //Max
 
+//adding new properties to an object
+myDog.bark="woof";
+console.log(myDog.bark); //woof
+
+//Deleting properties from an object
+delete myDog.tail;
+console.log(myDog.tail); //undefined
