@@ -4,7 +4,7 @@ Welcome to my JavaScript Learning repository! This repository contains a compreh
 
 ## 📋 About This Repository
 
-This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and exercises. All content is written in pure JavaScript, making it easy to understand core concepts without framework dependencies.
+This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and explanations designed to build your JavaScript expertise step by step.
 
 ## 🎯 Topics Covered
 
@@ -207,4 +207,4 @@ If you have questions, suggestions, or find issues, feel free to open an issue o
 **Happy Learning! 🚀**
 
 *Last Updated: June 2026*
-*Total Files: 44+ JavaScript learning examples*
+*Total Files: 44 JavaScript learning examples*
