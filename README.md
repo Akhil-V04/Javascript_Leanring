@@ -1,10 +1,10 @@
 # JavaScript Learning 📚
 
-Welcome to my JavaScript Learning repository! This repository contains a comprehensive collection of JavaScript fundamentals, ES6+ features, and advanced concepts with 44+ practice files covering everything from basic syntax to modern JavaScript patterns.
+Welcome to my JavaScript Learning repository! This repository contains a comprehensive collection of JavaScript fundamentals, ES6+ features, and advanced concepts with 46+ practice files covering everything you need to master JavaScript!
 
 ## 📋 About This Repository
 
-This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and explanations designed to build your JavaScript expertise step by step.
+This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and exercises.
 
 ## 🎯 Topics Covered
 
@@ -61,6 +61,10 @@ This is a structured learning journey through JavaScript, starting with the abso
 - **Array Methods** - map, forEach, reduce, sort, etc.
 - **Filter & Find** - Filtering and searching arrays
 
+### 7. **Advanced Topics** (Files 45-46)
+- **Advanced Array Methods** - Additional array manipulation techniques
+- **Advanced Concepts** - Further exploration of JavaScript patterns
+
 ## 📂 Repository Structure
 
 ```
@@ -109,7 +113,9 @@ Javascript_Learning/
 ├── 41. getters and setters.js         # Getters & setters
 ├── 42. Import and require.js          # Modules
 ├── 43. Array methods.js               # Array methods
-└── 44. Array methods - filter and find.js # Filter & find
+├── 44. Array methods - filter and find.js # Filter & find
+├── 45. advanced-array-methods.js      # Advanced array manipulation
+└── 46. advanced-concepts.js           # Advanced JavaScript concepts
 ```
 
 ## 🚀 Getting Started
@@ -138,7 +144,7 @@ Javascript_Learning/
 4. **Practice:**
    - Modify examples to understand concepts better
    - Write your own variations
-   - Complete all 44 files for comprehensive learning
+   - Complete all 46 files for comprehensive learning
 
 ## 💻 Prerequisites
 
@@ -162,7 +168,7 @@ Javascript_Learning/
 3. **Then (Files 19-24):** Understand objects and complex data structures
 4. **Continue (Files 25-29):** Practice loops and iteration
 5. **Advanced (Files 30-44):** Explore ES6+ modern JavaScript features
-6. **Master (Files 43-44):** Become proficient with array methods
+6. **Master (Files 45-46):** Become proficient with advanced array methods and concepts
 
 ## 🤝 Contributing
 
@@ -178,7 +184,7 @@ This is a **learning-focused repository**. The code is designed to be:
 
 ## 🎓 Key Learning Outcomes
 
-After completing all 44 files, you will understand:
+After completing all 46 files, you will understand:
 - ✅ JavaScript fundamentals and syntax
 - ✅ Variable scope and hoisting
 - ✅ Functions and closures
@@ -189,6 +195,11 @@ After completing all 44 files, you will understand:
 - ✅ Classes and OOP concepts
 - ✅ Modules and code organization
 - ✅ Best practices and patterns
+- ✅ Advanced JavaScript techniques
+
+## 💾 Language Composition
+
+- **JavaScript** - 100% of the repository
 
 ## 🎓 Resources
 
@@ -206,5 +217,5 @@ If you have questions, suggestions, or find issues, feel free to open an issue o
 
 **Happy Learning! 🚀**
 
-*Last Updated: June 2026*
-*Total Files: 44 JavaScript learning examples*
+*Last Updated: June 23, 2026*
+*Total Files: 46 JavaScript learning examples*
