@@ -9,7 +9,7 @@ var magic =function(){ //Annonymous function
 };
 
 //Arrow function
-const magic =()=> new Date(); //Arrow function with no parameters
+const magicArrow =()=> new Date(); //Arrow function with no parameters
 
 //Arrow function with one parameter
 const myConcat=(arr1,arr2)=> arr1.concat(arr2); //Arrow function with two parameters
@@ -17,3 +17,23 @@ const myConcat=(arr1,arr2)=> arr1.concat(arr2); //Arrow function with two parame
 //Syntax: 
 var myconcat = (arr1, arr2) => arr1.concat(arr2);
 console.log(myconcat([1, 2], [3, 4, 5])); // [1, 2, 3, 4, 5]
+
+//Example1
+const hello=(name,age)=> {console.log(`Hello my name is ${name}`);
+                          console.log(`I am ${age} years old.`);
+}
+
+//settimout function
+//exam2
+setTimeout(helloFunc, 3000)
+function helloFunc(){
+    console.log("Hello world");
+}
+
+//example3
+setTimeout(function(){
+    console.log("hello world");
+},3000);
+
+//example 4 using arrow function
+setTimeout(()=>console.log("Hello World"),3000);
