@@ -17,3 +17,4 @@ const thermos=new Thermostat(76);
 let temp=thermos.temperature;
 thermos.temperature=26;
 temp=thermos.temperature;
+console.log(temp); //26
