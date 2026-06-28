@@ -1,0 +1,35 @@
+the change in state of an object is known as an event
+
+there are few popular events
+
+1. Mouse events (click,double click etc)
+2. Keyboard events (keypress, keyup etc)
+3. Form events (submit etc)
+4. print and even more
+
+Great! Think of these as **tools for finding HTML elements**. JavaScript can't change an element unless it **finds** it first.
+
+
+things to remember :
+1. you can write te script in both html(inline) and js files but it chooses js script over html(inline)
+always javscript is given priority for scripting
+
+2. if ou write 2 or more handles for the same button or anything else the first handle is overwritten
+and 2nd handler is executed
+
+3. we use document.querySelector('#id') becuase it taked values from div,tag,button,class,all
+but document.getId('Id') only finds from id
+
+//Event Handlers
+1. As you can see in script.js file we created "evt"(object) inside the events and it uses multiple functions 
+to know the type,target,location and its details more.
+
+//EVENT LISTENERS
+1. these are much better than inline and event handlers method (inline<event handlers,eventlisteners)
+
+these event listeners wait until the event occurs and then executes once it occurs
+it takes two arguments inside it
+
+#syntax
+node.addEventListener(event, callback) //callback is function or handler in simple terms
+
