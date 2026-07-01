@@ -1,14 +1,14 @@
 # JavaScript Learning 📚
 
-Welcome to my JavaScript Learning repository! This repository contains a comprehensive collection of JavaScript fundamentals, ES6+ features, and advanced concepts with 46+ practice files covering everything you need to master JavaScript!
+Welcome to my JavaScript Learning repository! This repository contains a comprehensive collection of JavaScript fundamentals, ES6+ features, and advanced concepts with 52 practice files covering essential topics and browser demos.
 
 ## 📋 About This Repository
 
-This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and exercises.
+This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and explanations.
 
 ## 🎯 Topics Covered
 
-### 1. **Fundamentals** (Files 1-9)
+### 1. **Fundamentals** (Files 01-09)
 - **Comments** - Writing and using comments in code
 - **Variables & Data Types** - var, let, const, strings, numbers, booleans, objects
 - **Operators** - Arithmetic, comparison, logical, increment/decrement operators
@@ -61,24 +61,30 @@ This is a structured learning journey through JavaScript, starting with the abso
 - **Array Methods** - map, forEach, reduce, sort, etc.
 - **Filter & Find** - Filtering and searching arrays
 
-### 7. **Advanced Topics** (Files 45-46)
-- **Advanced Array Methods** - Additional array manipulation techniques
-- **Advanced Concepts** - Further exploration of JavaScript patterns
+### 7. **Advanced Topics & Demos** (Files 45-52)
+- 45. Arrow function with map,filter,reduce.js
+- 46. Reduce.js
+- 47. Sorting.js
+- 48. Promises.js
+- 49. Synchronous and Asynchronous.js
+- 50. Async & Await.js
+- 51. DOM/ (browser demo: index.html + index.js)
+- 52. Events/ (browser demo: index.html + script.js + style.css)
 
 ## 📂 Repository Structure
 
 ```
 Javascript_Learning/
 ├── README.md                          # This file
-├── 1. comments.js                     # Comments
-├── 2. variables_datatypes.js          # Variables and data types
-├── 3. operators_Increment_decrement.js # Operators
-├── 4. Concatinating strings.js        # String concatenation
-├── 5. Escaping Literals.js            # Escape sequences
-├── 6. Bracket indexing strings.js     # String indexing
-├── 7. Word Blanks.js                  # String exercises
-├── 8. Arrays & Nested Arrays.js       # Array basics
-├── 9. Array manipulation.js           # Array methods
+├── 01. comments.js                     # Comments
+├── 02. variables_datatypes.js          # Variables and data types
+├── 03. operators_Increment_decrement.js # Operators
+├── 04. Concatinating strings.js        # String concatenation
+├── 05. Escaping Literals.js            # Escape sequences
+├── 06. Bracket indexing strings.js     # String indexing
+├── 07. Word Blanks.js                  # String exercises
+├── 08. Arrays & Nested Arrays.js       # Array basics
+├── 09. Array manipulation.js           # Array methods
 ├── 10. Function Reusability.js        # Functions
 ├── 11. Passing values using Arguments.js # Function parameters
 ├── 12. Global variables.js            # Global scope
@@ -114,9 +120,17 @@ Javascript_Learning/
 ├── 42. Import and require.js          # Modules
 ├── 43. Array methods.js               # Array methods
 ├── 44. Array methods - filter and find.js # Filter & find
-├── 45. advanced-array-methods.js      # Advanced array manipulation
-└── 46. advanced-concepts.js           # Advanced JavaScript concepts
+├── 45. Arrow function with map,filter,reduce.js
+├── 46. Reduce.js
+├── 47. Sorting.js
+├── 48. Promises.js
+├── 49. Synchronous and Asynchronous.js
+├── 50. Async & Await.js
+├── 51. DOM/                            # Browser demo (index.html + index.js)
+├── 52. Events/                         # Browser demo (index.html + script.js + style.css)
 ```
+
+**How it fits together:** The numbered files are independent learning examples runnable in Node or in the browser console. The 51. DOM and 52. Events folders contain small browser demos that include HTML/CSS/JS.
 
 ## 🚀 Getting Started
 
@@ -127,14 +141,14 @@ Javascript_Learning/
    ```
 
 2. **Explore the files:**
-   - Start with file 1 and progress sequentially
+   - Start with file 01 and progress sequentially
    - Each file builds on previous concepts
    - Open files in your code editor to read comments and examples
 
 3. **Run the code:**
    - **In Node.js:**
      ```bash
-     node "1. comments.js"
+     node "01. comments.js"
      ```
    - **In Browser:**
      - Open browser DevTools (F12)
@@ -144,7 +158,7 @@ Javascript_Learning/
 4. **Practice:**
    - Modify examples to understand concepts better
    - Write your own variations
-   - Complete all 46 files for comprehensive learning
+   - Complete all 52 entries for comprehensive learning
 
 ## 💻 Prerequisites
 
@@ -163,12 +177,12 @@ Javascript_Learning/
 ## 📖 Learning Path
 
 **Recommended Order:**
-1. **Start here (Files 1-9):** Master fundamentals, strings, and arrays
+1. **Start here (Files 01-09):** Master fundamentals, strings, and arrays
 2. **Next (Files 10-18):** Learn functions, scope, and control flow
 3. **Then (Files 19-24):** Understand objects and complex data structures
 4. **Continue (Files 25-29):** Practice loops and iteration
 5. **Advanced (Files 30-44):** Explore ES6+ modern JavaScript features
-6. **Master (Files 45-46):** Become proficient with advanced array methods and concepts
+6. **Master (Files 45-52):** Become proficient with advanced array methods and concepts
 
 ## 🤝 Contributing
 
@@ -184,7 +198,7 @@ This is a **learning-focused repository**. The code is designed to be:
 
 ## 🎓 Key Learning Outcomes
 
-After completing all 46 files, you will understand:
+After completing all 52 files, you will understand:
 - ✅ JavaScript fundamentals and syntax
 - ✅ Variable scope and hoisting
 - ✅ Functions and closures
@@ -199,7 +213,9 @@ After completing all 46 files, you will understand:
 
 ## 💾 Language Composition
 
-- **JavaScript** - 100% of the repository
+- **JavaScript** — 96.1%
+- **HTML** — 3.2%
+- **CSS** — 0.7%
 
 ## 🎓 Resources
 
@@ -217,5 +233,5 @@ If you have questions, suggestions, or find issues, feel free to open an issue o
 
 **Happy Learning! 🚀**
 
-*Last Updated: June 23, 2026*
-*Total Files: 46 JavaScript learning examples*
+*Last Updated: June 28, 2026*
+*Total Entries: 52 (numbered learning entries, includes two browser demo folders)*
