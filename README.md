@@ -1,10 +1,10 @@
 # JavaScript Learning 📚
 
-Welcome to my JavaScript Learning repository! This repository contains a comprehensive collection of JavaScript fundamentals, ES6+ features, and advanced concepts with 52 practice files covering essential topics and browser demos.
+Welcome to my JavaScript Learning repository! This repository contains a comprehensive collection of JavaScript fundamentals, ES6+ features, and advanced concepts with 53 practice files covering essential JavaScript topics and practical API integration examples.
 
 ## 📋 About This Repository
 
-This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and explanations.
+This is a structured learning journey through JavaScript, starting with the absolute basics and progressing to intermediate and advanced concepts. Each file focuses on a specific topic with practical examples and hands-on exercises.
 
 ## 🎯 Topics Covered
 
@@ -71,6 +71,14 @@ This is a structured learning journey through JavaScript, starting with the abso
 - 51. DOM/ (browser demo: index.html + index.js)
 - 52. Events/ (browser demo: index.html + script.js + style.css)
 
+### 8. **API Integration & Fetch** (File 53) ⭐ **FINAL PROJECT**
+- **53. Fetch/** - Complete browser demo showcasing Fetch API integration
+  - Fetching data from external APIs (Pokemon API example)
+  - User input handling and event listeners
+  - DOM manipulation with API responses
+  - Error handling and data display
+  - Real-world practical application of JavaScript concepts
+
 ## 📂 Repository Structure
 
 ```
@@ -128,9 +136,10 @@ Javascript_Learning/
 ├── 50. Async & Await.js
 ├── 51. DOM/                            # Browser demo (index.html + index.js)
 ├── 52. Events/                         # Browser demo (index.html + script.js + style.css)
+├── 53. Fetch/                          # ⭐ FINAL PROJECT - API Integration (index.html + index.js + style.css)
 ```
 
-**How it fits together:** The numbered files are independent learning examples runnable in Node or in the browser console. The 51. DOM and 52. Events folders contain small browser demos that include HTML/CSS/JS.
+**How it fits together:** The numbered files are independent learning examples runnable in Node or in the browser console. Files 51, 52, and 53 are browser demo folders containing interactive examples that combine multiple JavaScript concepts. File 53 (Fetch) represents the culmination of your JavaScript learning journey, demonstrating real-world API integration!
 
 ## 🚀 Getting Started
 
@@ -154,11 +163,14 @@ Javascript_Learning/
      - Open browser DevTools (F12)
      - Copy-paste code into console
      - Or create an HTML file and include the JavaScript
+   - **For Demos (Files 51-53):**
+     - Open the respective folder
+     - Open `index.html` in your browser to see the interactive demo
 
 4. **Practice:**
    - Modify examples to understand concepts better
    - Write your own variations
-   - Complete all 52 entries for comprehensive learning
+   - Complete all 53 entries for comprehensive learning
 
 ## 💻 Prerequisites
 
@@ -183,6 +195,7 @@ Javascript_Learning/
 4. **Continue (Files 25-29):** Practice loops and iteration
 5. **Advanced (Files 30-44):** Explore ES6+ modern JavaScript features
 6. **Master (Files 45-52):** Become proficient with advanced array methods and concepts
+7. **Capstone (File 53):** Build real-world applications with Fetch API and external APIs ⭐
 
 ## 🤝 Contributing
 
@@ -198,7 +211,7 @@ This is a **learning-focused repository**. The code is designed to be:
 
 ## 🎓 Key Learning Outcomes
 
-After completing all 52 files, you will understand:
+After completing all 53 files, you will understand:
 - ✅ JavaScript fundamentals and syntax
 - ✅ Variable scope and hoisting
 - ✅ Functions and closures
@@ -210,12 +223,14 @@ After completing all 52 files, you will understand:
 - ✅ Modules and code organization
 - ✅ Best practices and patterns
 - ✅ Advanced JavaScript techniques
+- ✅ **Fetch API and external API integration** ⭐
+- ✅ **Real-world application development** ⭐
 
 ## 💾 Language Composition
 
-- **JavaScript** — 96.1%
-- **HTML** — 3.2%
-- **CSS** — 0.7%
+- **JavaScript** — 94.8%
+- **HTML** — 4.6%
+- **CSS** — 0.6%
 
 ## 🎓 Resources
 
@@ -224,6 +239,8 @@ After completing all 52 files, you will understand:
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [MDN Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [REST API Basics](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 
 ## 📧 Contact
 
@@ -233,5 +250,5 @@ If you have questions, suggestions, or find issues, feel free to open an issue o
 
 **Happy Learning! 🚀**
 
-*Last Updated: June 28, 2026*
-*Total Entries: 52 (numbered learning entries, includes two browser demo folders)*
+*Last Updated: July 1, 2026*
+*Total Entries: 53 (numbered learning entries, includes three browser demo folders, with Fetch API as the final capstone project)*
